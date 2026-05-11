@@ -18,5 +18,7 @@ It is used to clone the global data to local data.
 It is used to check the status of changes made.
 The status may be of untracked, modified, unmodified, staged.
 
+6. dir, cd, mkdir
+7. git add file_name or .
 
 
