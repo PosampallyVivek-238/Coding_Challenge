@@ -21,4 +21,6 @@ The status may be of untracked, modified, unmodified, staged.
 6. dir, cd, mkdir
 7. git add file_name or .
 
+8. git commit -m "Day-1"
+9. git push origin main
 
