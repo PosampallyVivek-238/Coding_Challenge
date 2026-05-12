@@ -1,7 +1,7 @@
 # Coding_Challenge
 100 Day's of Coding Challenge
 <h2>Day-1:<h2><br>
-<h5>Learning Basic git commands<h5><br>
+<h3>Learning Basic git commands<h3><br>
 List of Git commands:
 
 1. git config --global user.name
